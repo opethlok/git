@@ -1,0 +1,3 @@
+Hola Mundo!!
+
+Para insertar debes presionar i despues presionas ESC y :wq
